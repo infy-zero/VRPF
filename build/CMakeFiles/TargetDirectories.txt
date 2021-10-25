@@ -1,0 +1,8 @@
+/home/lvning/workplace/arima/build/CMakeFiles/rebuild_cache.dir
+/home/lvning/workplace/arima/build/CMakeFiles/edit_cache.dir
+/home/lvning/workplace/arima/build/src/CMakeFiles/rebuild_cache.dir
+/home/lvning/workplace/arima/build/src/CMakeFiles/main.dir
+/home/lvning/workplace/arima/build/src/CMakeFiles/edit_cache.dir
+/home/lvning/workplace/arima/build/tests/CMakeFiles/rebuild_cache.dir
+/home/lvning/workplace/arima/build/tests/CMakeFiles/vrp.dir
+/home/lvning/workplace/arima/build/tests/CMakeFiles/edit_cache.dir

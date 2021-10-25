@@ -1,0 +1,5 @@
+Log file created at: 2021/10/25 19:59:25
+Running on machine: LAPTOP-0M8NULKO
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W20211025 19:59:25.069265 30034 main.cpp:16] Hello World!

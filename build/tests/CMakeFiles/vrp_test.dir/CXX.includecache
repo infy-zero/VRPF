@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lvning/workplace/arima/tests/TestAll.cpp
+gtest/gtest.h
+/home/lvning/workplace/arima/tests/gtest/gtest.h
+
+/home/lvning/workplace/arima/tests/functions.cpp
+functions.h
+/home/lvning/workplace/arima/tests/functions.h
+
+/home/lvning/workplace/arima/tests/functions.h
+
+/home/lvning/workplace/arima/tests/functionsTest.cpp
+gtest/gtest.h
+/home/lvning/workplace/arima/tests/gtest/gtest.h
+functions.h
+/home/lvning/workplace/arima/tests/functions.h
+

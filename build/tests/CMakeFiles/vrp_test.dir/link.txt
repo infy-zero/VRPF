@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/vrp_test.dir/TestAll.cpp.o CMakeFiles/vrp_test.dir/functions.cpp.o CMakeFiles/vrp_test.dir/functionsTest.cpp.o  -o ../bin/vrp_test  -L/home/lvning/workplace/arima/build/lib  -L/usr/local/lib  -L/use/lib -Wl,-rpath,/home/lvning/workplace/arima/build/lib:/usr/local/lib:/use/lib -Wl,-Bstatic -lgtest -Wl,-Bdynamic 
